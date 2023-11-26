@@ -1,4 +1,4 @@
-name: release
+name: win-release
 on:
   workflow_dispatch:
 
